@@ -1,0 +1,1 @@
+# poc-aws-secrets-manager-spring-boot

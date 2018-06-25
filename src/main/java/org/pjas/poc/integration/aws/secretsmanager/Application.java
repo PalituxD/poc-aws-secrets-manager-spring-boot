@@ -7,7 +7,7 @@ package org.pjas.poc.integration.aws.secretsmanager;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.pjas.poc.integration.aws.secretsmanager.config.DummyService;
+import org.pjas.poc.integration.aws.secretsmanager.services.DummyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

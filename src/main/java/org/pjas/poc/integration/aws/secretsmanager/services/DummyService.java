@@ -1,4 +1,4 @@
-package org.pjas.poc.integration.aws.secretsmanager.config;
+package org.pjas.poc.integration.aws.secretsmanager.services;
 
 /*
  * Created by: patoche
